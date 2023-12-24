@@ -6,8 +6,9 @@ Plz, This repo rely on the CUDA17, If you use other setting, plz change it to th
 
 
 ## We would save all we will use model in hugging face
-## 我会将所有要用的模型都放在huggingface抱脸
+我会将所有要用的模型都放在huggingface抱脸
 
 
 
-##我们也会自己去制作NODE，如果你有意向，可以联系我
+# We will code our own great node, if you want to do that, you could contact me.
+我们也会自己去制作NODE，如果你有意向，可以联系我
