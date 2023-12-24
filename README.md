@@ -10,5 +10,5 @@ Plz, This repo rely on the CUDA17, If you use other setting, plz change it to th
 
 
 
-# We will code our own great node, if you want to do that, you could contact me.
+## We will code our own great node, if you want to do that, you could contact me.
 我们也会自己去制作NODE，如果你有意向，可以联系我
